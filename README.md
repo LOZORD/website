@@ -4,7 +4,6 @@ USDS's WhiteHouse.gov website
 Placeholder repo for reporting [issues with the website](https://github.com/WhiteHouse/usds-website/issues).
 
 A few asks:
-- Code freeze at 6pm EST on 1/20 -- please have all comments in by 5 pm EST if possible. 
 - Please note the urgency of your issue with 1 - 5, where 5 = most important.
 - include a screenshot when possible
 
