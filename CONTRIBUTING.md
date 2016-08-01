@@ -1,6 +1,6 @@
-# Contributing to [whitehouse.gov](https://whitehouse.gov)
+# Contributing to [usds.gov](https://www.usds.gov)
 
-:us: Thank you for your whitehouse.gov feedback! :us:
+:us: Thank you for your USDS website feedback! :us:
 
 ## When creating an issue...
 Please do the following:
